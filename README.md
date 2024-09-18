@@ -127,4 +127,4 @@ After setting up the server, configure client devices or other servers to use yo
 If you have suggestions or improvements, please open an issue or submit a pull request. Contributions are welcome!
 ---
 
-Feel free to adjust the configuration paths and details according to your specific setup. This README provides a clear guide for users to understand and implement a recursive DNS server using BIND9.
+Feel free to adjust the configuration paths and details according to your specific setup. 
